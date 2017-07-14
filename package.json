@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-background-download",
+  "version": "0.0.2",
+  "description": "Cordova Background Download Plugin",
+  "cordova": {
+    "id": "cordova-plugin-background-download",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitup/background-download.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "rohitup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitup/background-download/issues"
+  },
+  "homepage": "https://github.com/rohitup/Multilangprint#readme"
+}
